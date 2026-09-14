@@ -4,9 +4,9 @@
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/930119d1-9324-48dd-8f2a-d642f529fba8" />
 
 
-<p align="center"> hihohi 
+<p align="center"> hihohi </p>
 
 
-I'm always sitting alone cuz I have like 2 ponytown friends lol 
+<p align="center">I'm always sitting alone cuz I have like 2 ponytown friends lol 
 
-Not a shelly kin!!! I just rlly like her</p>
+<p align="center">Not a shelly kin!!! I just rlly like her
