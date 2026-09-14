@@ -6,5 +6,7 @@
 
 <p align="center"> hihohi 
 
+
 I'm always sitting alone cuz I have like 2 ponytown friends lol 
+
 Not a shelly kin!!! I just rlly like her</p>
