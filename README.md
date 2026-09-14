@@ -10,3 +10,7 @@
 <p align="center">I'm always sitting alone cuz I have like 2 ponytown friends lol 
 
 <p align="center">Not a shelly kin!!! I just rlly like her
+
+<p align="center"> I block freely. Don't be an idiot.
+
+<p align="center"> more info on (future) strawpage!!
