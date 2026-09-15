@@ -4,8 +4,12 @@
 
 <p align="center"> hii hello </p>
 
+</details><p align="center"> <details>
+<summary><p align="center"> info 🦖</summary>
 
 <p align="center">I'm always sitting alone cuz I have like 2 ponytown friends lol 
+
+<p align="center"> Feel free to interact anytime!
 
 <p align="center">Not a shelly kin!!! I just rlly like her
 
@@ -13,8 +17,5 @@
 
 <p align="center"> more info on (future) strawpage!!
 
-<p align="center"> <details>
-<summary><p align="center">🦖</summary>
-
-<p align="center">haha
+<
 </details>
