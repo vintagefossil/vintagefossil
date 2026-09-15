@@ -4,8 +4,8 @@
 
 <p align="center"> hii hello </p>
 
-</details><p align="center"> <details>
-<summary><p align="center"> info 🦖</summary>
+</details> <details>
+<summary> info 🦖</summary>
 
 <p align="center">I'm always sitting alone cuz I have like 2 ponytown friends lol 
 
@@ -17,5 +17,5 @@
 
 <p align="center"> more info on (future) strawpage!!
 
-<
+
 </details>
