@@ -17,6 +17,7 @@
   
 <p align="center"> I block freely. Don't be an idiot.
 
+<p align="center"> i don’t mind new friends. -13 , 21+ iwec/dni
 <p align="center"> 🦴
 
 
