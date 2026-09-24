@@ -12,7 +12,9 @@
 <p align="center"> Feel free to interact anytime!
 
 <p align="center">Not a shelly kin!!! I just rlly like her
-
+  
+<p align="center"> im kinda dry when textinf sorry 
+  
 <p align="center"> I block freely. Don't be an idiot.
 
 <p align="center"> more info on strawpage!!
