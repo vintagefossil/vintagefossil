@@ -17,7 +17,7 @@
   
 <p align="center"> I block freely. Don't be an idiot.
 
-<p align="center"> more info on strawpage!!
+<p align="center"> 🦴
 
 
 </details>
