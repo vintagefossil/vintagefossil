@@ -11,7 +11,7 @@
 <p>Feel free to interact / c+h anytime!</p>
 <p>Not a shelly kin!!! I just rlly like her</p>
 <p>im kinda dry when texting sorry</p>
-<p>I block freely</p>
+<p>I will block you if you make me uncomfortable </p>
 <p>i don’t mind new friends · -13, 21+ iwec/dni</p>
 <p>🦴</p>
 </details>
