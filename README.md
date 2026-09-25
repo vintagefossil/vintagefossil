@@ -8,11 +8,11 @@
 <div align="center">
 <details> <summary>info 🦖</summary>
 <p>I'm always sitting alone cuz I have like 2 ponytown friends lol</p>
-<p>Feel free to interact anytime!</p>
+<p>Feel free to interact / c+h anytime!</p>
 <p>Not a shelly kin!!! I just rlly like her</p>
 <p>im kinda dry when texting sorry</p>
-<p>I block freely. Don't be an idiot.</p>
-<p>i don’t mind new friends. -13, 21+ iwec/dni</p>
+<p>I block freely</p>
+<p>i don’t mind new friends · -13, 21+ iwec/dni</p>
 <p>🦴</p>
 </details>
 </div>
