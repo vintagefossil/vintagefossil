@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vintagefossil&color=000000&label=visitors)
-<p align="center"><img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/930119d1-9324-48dd-8f2a-d642f529fba8" />
+<p align="center"><img width="1000" height="1500" alt="image" src="https://github.com/user-attachments/assets/8b02056a-1aad-4483-b86d-0295a5e58257" />
+
 
 
 <p align="center"> hii hello </p>
