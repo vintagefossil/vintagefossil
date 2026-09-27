@@ -7,7 +7,7 @@
 
 <div align="center">
 <details> <summary>info 🦖</summary>
-<p>I'm always sitting alone cuz I have like 2 ponytown friends lol</p>
+
 <p>Feel free to interact / c+h anytime!</p>
 <p>Not a shelly kin!!! I just rlly like her</p>
 <p>im kinda dry when texting sorry</p>
