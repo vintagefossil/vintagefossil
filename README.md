@@ -9,6 +9,7 @@
 <details> <summary>info 🦖</summary>
 
 <p>Feel free to interact / c+h anytime!</p>
+<p>sleeping ingame means im afk</p>
 <p>Not a shelly kin!!! I just rlly like her</p>
 <p>im kinda dry when texting sorry</p>
 <p>I will block you if you make me uncomfortable </p>
