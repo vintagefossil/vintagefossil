@@ -18,7 +18,7 @@
     <p>im kinda dry when texting sorry</p>
     <p>${\color{gray}\text{I will block you if you make me uncomfortable}}$</p>
     <p>i don’t mind new friends ${\color{gray}\text{-13, 21+ iwec/dni}}$</p>
-  <p>find more in my <a href="YOUR_RENTRY_LINK_HERE">rentry </a>🦴</p>
+  <p>find more in my <a href="https://rentry.co/vintagefossil">rentry </a>🦴</p>
 
   </details>
 </div>
