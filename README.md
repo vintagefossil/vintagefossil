@@ -4,20 +4,27 @@
 
 
 
-<p align="center"> hii hello </p>
+<p align="center">
+  <b>hii hello</b>
+</p>
 
 <div align="center">
-<details> <summary>info 🦖</summary>
+  <details>
+    <summary><b>info 🦖</b></summary>
+    <br>
+    <p>Feel free to interact / c+h anytime!</p>
+    <p>sleeping ingame means im afk</p>
+    <p>${\color{gray}\text{Not a shelly kin!!! I just rlly like her}}$</p>
+    <p>im kinda dry when texting sorry</p>
+    <p>${\color{gray}\text{I will block you if you make me uncomfortable}}$</p>
+    <p>i don’t mind new friends ${\color{gray}\text{-13, 21+ iwec/dni}}$</p>
+  <p>find more in my <a href="YOUR_RENTRY_LINK_HERE">rentry </a>🦴</p>
 
-<p>Feel free to interact / c+h anytime!</p>
-<p>sleeping ingame means im afk</p>
-<p>Not a shelly kin!!! I just rlly like her</p>
-<p>im kinda dry when texting sorry</p>
-<p>I will block you if you make me uncomfortable </p>
-<p>i don’t mind new friends · -13, 21+ iwec/dni</p>
-<p>🦴</p>
-</details>
+  </details>
 </div>
+
+
+
 
 
 </details>
