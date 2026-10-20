@@ -5,7 +5,7 @@
 <img alt="image" src="https://github.com/user-attachments/assets/2717b95e-3af1-4d0d-8d25-ebb5916ed4eb" />
 
 <p align="center">
-I am my own person. don't judge me based on what my friends do. sometimes i am not concerned 
+I am my own person. don't judge me based on what my friends do. 
 </p>
 <p align="center">
   <b>hii hello</b>
