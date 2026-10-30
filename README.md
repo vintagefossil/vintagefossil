@@ -3,9 +3,16 @@
 </p>
 
 <img alt="image" src="https://github.com/user-attachments/assets/2717b95e-3af1-4d0d-8d25-ebb5916ed4eb" />
-
+<div align="center">
+  <details>
+    <summary><b>🌀</b></summary>
+    <br>
+  </p>im inactive this game has been taking too much of my time, Ive stopped focusing on my personal life like bruhh and all these dramas bro theyre so fucking stupid some of yall actually need to mind yo business its insane.. for now ciao prob coming back sometime idk
+u can write on my ata anytime i still read messages :-)
+</details>
+</div>
 <p align="center">
-  <b>hii hello</b>
+  <b></b>
 </p>
 
 <div align="center">
