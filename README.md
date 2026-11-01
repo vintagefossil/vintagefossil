@@ -24,7 +24,6 @@
     <p>Not a shelly kin!!! I just rlly like her</p>
     <p>im kinda dry when texting sorry</p>
     <p>I will block you if you make me uncomfortable</p>
-    <p>don’t talk to me abt previous drama i dont wanna hear it im done with that shit </p>
     <p>I am my own person. don't judge me based on what my friends do. 
 </p>
     <p>i don’t mind new friends -13, 21+ iwec/dni</p>
