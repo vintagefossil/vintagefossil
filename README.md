@@ -7,8 +7,8 @@
   <details>
     <summary><b>🌀</b></summary>
     <br>
-  </p>im inactive this game has been taking too much of my time, Ive stopped focusing on my personal life like bruhh and all these dramas bro theyre so fucking stupid some of yall actually need to mind yo business its insane.. for now ciao prob coming back sometime idk
-u can write on my ata anytime i still read messages :-)
+    dont bring me into drama that im not involved in ‼️‼️‼️
+  </p>
 </details>
 </div>
 <p align="center">
