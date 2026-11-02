@@ -7,7 +7,7 @@
   <details>
     <summary><b>🌀</b></summary>
     <br>
-    dont bring me into drama that im not involved in ‼️‼️‼️
+    wip
   </p>
 </details>
 </div>
