@@ -7,7 +7,9 @@
   <details>
     <summary><b>🌀</b></summary>
     <br>
-    wip
+    dni maggot n friends (darkshippers). 
+  <p></p>iwec domo’s friends, i dont feel comfortable around yall
+    <p></p>pls anyone else int i love making new friends ‼️
   </p>
 </details>
 </div>
@@ -27,7 +29,7 @@
     <p>I will block you if you make me uncomfortable</p>
     <p>I am my own person. don't judge me based on what my friends do. 
 </p>
-    <p>i don’t mind new friends -13, 21+ iwec/dni</p>
+    <p>-13, 21+ iwec/dni</p>
   <p>find more in my <a href="https://rentry.co/vintagefossil">rentry </a>🦴</p>
 
   </details>
