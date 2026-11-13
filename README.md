@@ -6,10 +6,7 @@
 <div align="center">
   <details>
     <summary><b>🌀</b></summary>
-    <br>
-    dni maggot n friends (darkshippers). 
-  <p></p>iwec domo’s friends, i dont feel comfortable around yall
-    <p></p>pls anyone else int i love making new friends ‼️
+    <p></p>pls int i love making new friends ‼️
   </p>
 </details>
 </div>
