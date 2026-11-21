@@ -7,7 +7,7 @@
 <div align="center">
   <details>
     <summary><b>🌀</b></summary>
-    <p></p>pls int i love making new friends ‼️
+    <p></p> a
   </p>
 </details>
 </div>
@@ -17,7 +17,7 @@
 
 <div align="center">
   <details>
-    <summary><b>info 🦖</b></summary>
+    <summary><b> info 🦖</b></summary>
     <br>
     <p>Feel free to interact / c+h anytime!</p>
     <p>sleeping ingame means im afk</p>
