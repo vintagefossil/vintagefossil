@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvintagefossil&label=bones&labelColor=%23697689&countColor=%0f6bdb&style=plastic&labelStyle=none" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvintagefossil&label=bones&labelColor=%23697689&countColor=blue&style=plastic&labelStyle=none" alt="Visitors" />
 </p>
 
 <img alt="image" src="https://github.com/user-attachments/assets/2717b95e-3af1-4d0d-8d25-ebb5916ed4eb" />
