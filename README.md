@@ -4,13 +4,7 @@
 
 <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/01aa536a-1aac-464a-aa99-bddda5197433" />
 
-<div align="center">
-  <details>
-    <summary><b>🌀</b></summary>
-    <p></p> a
-  </p>
-</details>
-</div>
+
 <p align="center">
   <b></b>
 </p>
@@ -34,12 +28,10 @@
 </div>
 
 
-
-
-
-</details>
-
 <div align="center">
+  <details>
+    <summary><b>🌀</b></summary>
+    <p></p> <div align="center">
 
 <img width="260" alt="old username" src="https://github.com/user-attachments/assets/47a313a1-87c6-43d4-967b-5ff6fd27843c" />
 
@@ -48,3 +40,9 @@
 <img width="50" alt="bugcat capoo" src="https://media.tenor.com/OW2X5k-HZrsAAAAj/bugcat-capoo-animated.gif" />
 
 </div>
+
+  </p>
+</details>
+</div>
+
+
