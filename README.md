@@ -2,7 +2,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvintagefossil&label=bones&labelColor=%23697689&countColor=blue&style=plastic&labelStyle=none" alt="Visitors" />
 </p>
 
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/01aa536a-1aac-464a-aa99-bddda5197433" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/01aa536a-1aac-464a-aa99-bddda5197433" />
 
 
 <p align="center">
