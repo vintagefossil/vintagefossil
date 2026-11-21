@@ -10,6 +10,7 @@
 </p>
 
 <div align="center">
+
   <details>
     <summary><b> info 🦖</b></summary>
     <br>
@@ -44,5 +45,5 @@
   </p>
 </details>
 </div>
-
+ still a wip
 
